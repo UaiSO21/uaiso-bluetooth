@@ -16,4 +16,5 @@ depends=("bluez"
 optdepends=('blueman: A GTK bluetooth manager'
             'bluedevil: Qt bluetooth frontend'
             'blueberry: Bluetooth configuration tool')
+
 install=$pkgname.install

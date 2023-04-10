@@ -12,9 +12,8 @@ depends=("bluez"
         "bluez-libs"
         "bluez-plugins"
         "bluez-tools"
-        "bluez-utils")
-optdepends=('blueman: A GTK bluetooth manager'
-            'bluedevil: Qt bluetooth frontend'
-            'blueberry: Bluetooth configuration tool')
+        "bluez-utils"
+        "bluedevil"
+        )
 
 install=$pkgname.install

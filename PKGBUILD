@@ -14,7 +14,6 @@ depends=("bluez"
         "bluez-tools"
         "bluez-utils"
         "bluedevil"
-        "pulseaudio-bluetooth"
         )
 
 install=$pkgname.install
